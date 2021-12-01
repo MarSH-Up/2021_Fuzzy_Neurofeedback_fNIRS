@@ -11,3 +11,5 @@ You can find the implementations created in Simulink, which allow us to work mor
 <p align="center">
   <img width="470" src="/Figures/State-space.PNG">
 </p>
+
+We can represet that system as a control block diagram, which will give us a general idea of how to apply the model
