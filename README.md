@@ -9,5 +9,5 @@ This repository includes all the essential parts of our neurofeedback model base
 You can find the implementations created in Simulink, which allow us to work more dynamically with the control systems. We used State-space method, check this video general idea (https://www.youtube.com/watch?v=hpeKrMG-WP0&t=329s&ab_channel=MATLAB) the video is a pretty basic introduction to the model. Basically the model is a way to represent an n_{th} order ODE with a single first-order matrix differential equation system. Considering the nature of the system's plant, we represented the equations as 
 
 <p align="center">
-  <img width="470" src="/Figure/State-space.PNG">
+  <img width="470" src="/Figures/State-space.PNG">
 </p>
